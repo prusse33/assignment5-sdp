@@ -1,7 +1,9 @@
 
 # Assignment 5 — Strategy Pattern
 
-Course: Software Design Patterns
+Software Design Patterns
+
+Ismail Bolat
 
 ## Project Description
 
